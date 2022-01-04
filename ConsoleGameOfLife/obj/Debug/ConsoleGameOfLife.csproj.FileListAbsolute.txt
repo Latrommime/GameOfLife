@@ -1,0 +1,6 @@
+C:\Done\CSLearn\GameOfLife\ConsoleGameOfLife\bin\Debug\ConsoleGameOfLife.exe.config
+C:\Done\CSLearn\GameOfLife\ConsoleGameOfLife\bin\Debug\ConsoleGameOfLife.exe
+C:\Done\CSLearn\GameOfLife\ConsoleGameOfLife\bin\Debug\ConsoleGameOfLife.pdb
+C:\Done\CSLearn\GameOfLife\ConsoleGameOfLife\obj\Debug\ConsoleGameOfLife.csproj.CoreCompileInputs.cache
+C:\Done\CSLearn\GameOfLife\ConsoleGameOfLife\obj\Debug\ConsoleGameOfLife.exe
+C:\Done\CSLearn\GameOfLife\ConsoleGameOfLife\obj\Debug\ConsoleGameOfLife.pdb
